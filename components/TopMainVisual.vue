@@ -1,5 +1,5 @@
 <template>
-  <div class="topMainVisual">トップのメインビジュアル</div>
+  <div class="topMainVisual">トップのメインビジュアルです。</div>
 </template>
 
 <script>
