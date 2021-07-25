@@ -2,7 +2,7 @@
   <div class="container">
     <TheHeader />
     <main>
-      <TopMainVisual />
+      <ArticleMainVisual />
     </main>
     <TheFooter />
   </div>
