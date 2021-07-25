@@ -7,6 +7,13 @@
     "start": "nuxt start"
   },
   "dependencies": {
-    "nuxt": "^2.15.7"
+    "bulma": "^0.9.3",
+    "nuxt": "^2.15.7",
+    "ress": "^4.0.0"
+  },
+  "devDependencies": {
+    "fibers": "^5.0.0",
+    "sass": "^1.36.0",
+    "sass-loader": "^10.2.0"
   }
 }
